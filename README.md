@@ -49,7 +49,7 @@ seja possível satisfazer as consultas a seguir [...]
 * Consulta 3: `\i /path/scripts/queries/query3.sql;`
 * Consulta 4: `\i /path/scripts/queries/query4.sql;`
 * Consulta 5: `\i /path/scripts/queries/query5.sql;`
-* Consulta 6: `\i /path/scripts/queries/query1.sql;`
+* Consulta 6: `\i /path/scripts/queries/query6.sql;`
 
 ## Considerações finais
 A imagem com o modelo relacional se encontra na pasta imgs deste mesmo repositório, assim como algumas imagens mostrando
