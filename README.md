@@ -31,7 +31,7 @@ seja possível satisfazer as consultas a seguir [...]
 #### Digite no terminal:
 * Para inicializar o serviço: `sudo systemctl start postgresql`
 * Para fazer login: `sudo -i -u postgres psql`
-* Para criar o banco: `CREATE DATABASE desafio_bridge`
+* Para criar o banco: `CREATE DATABASE desafio_bridge;`
 
 ### 3) Criar o schema para o desafio
 
