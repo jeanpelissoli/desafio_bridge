@@ -36,7 +36,7 @@ seja possível satisfazer as consultas a seguir [...]
 ### 3) Criando o schema para o desafio
 
 #### Digite no terminal:
-* Para se conecar ao banco: `\c desafio_bridge`
+* Para se conectar ao banco: `\c desafio_bridge`
 * Para executar o script de criação do schema: `\i /path/scripts/schema/createSchema.sql;`
 * Para popular as tabelas: `\i /path/scripts/schema/populateTables.sql;`
 * Onde "path" representa o diretório onde estão os arquivos.
