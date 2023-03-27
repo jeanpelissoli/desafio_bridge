@@ -52,11 +52,5 @@ seja possível satisfazer as consultas a seguir [...]
 * Consulta 6: `\i /path/scripts/queries/query6.sql;`
 
 ## Considerações finais
-A imagem com o modelo relacional se encontra na pasta imgs deste mesmo repositório, assim como algumas imagens mostrando
-o resultado das consultas realizadas com os scripts.
-
-
-
-
-
-
+A imagem com o modelo relacional está contida no pdf do relatório e também na pasta imgs, que também possuí algumas imagens mostrando
+os resultados das consultas realizadas com os scripts.
