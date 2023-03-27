@@ -26,14 +26,14 @@ seja possível satisfazer as consultas a seguir [...]
 * Tutorial para instalação no Ubuntu 22.04: https://itslinuxfoss.com/install-setup-postgresql-database-ubuntu-22-04/
 * Instalação no Windows: https://www.postgresql.org/download/windows/
 
-### 2) Inicializar e criar o Banco
+### 2) Inicializar e criar o Banco de dados
 
 #### Digite no terminal:
 * Para inicializar o serviço: `sudo systemctl start postgresql`
 * Para fazer login: `sudo -i -u postgres psql`
 * Para criar o banco: `CREATE DATABASE desafio_bridge`
 
-### 3) Criando o schema para o desafio
+### 3) Criar o schema para o desafio
 
 #### Digite no terminal:
 * Para se conectar ao banco: `\c desafio_bridge`
